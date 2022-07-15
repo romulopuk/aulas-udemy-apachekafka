@@ -1,4 +1,4 @@
-servver:
+server:
   port: 8000
 spring:
   kafka:
